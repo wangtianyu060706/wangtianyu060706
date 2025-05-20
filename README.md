@@ -1,4 +1,10 @@
-## Hi there 👋
+## Wang Tianyu
+   Ph.D. in Economics, Nankai University
+   <br>Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Science
+   <br>Research Interests: International Economics, Development Economics
+
+## Publications
+    [1] Li, L., Liu, B., Sheng, B., & Wang, T*. (2025). “Double rail effect”: Transportation infrastructure and technological spillovers from R&D center foreign firms. China Economic Review, 99, 102367.
 
 <!--
 **wangtianyu060706/wangtianyu060706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
