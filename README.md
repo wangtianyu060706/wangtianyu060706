@@ -1,7 +1,7 @@
 ## Wang Tianyu
-   Ph.D. in Economics, Nankai University
-   <br>Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Science
+   Ph.D. in Economics
    <br>Research Interests: International Economics, Development Economics
+   <br>Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Science
 
 ## Publications
     [1] Li, L., Liu, B., Sheng, B., & Wang, T*. (2025). “Double rail effect”: Transportation infrastructure and technological spillovers from R&D center foreign firms. China Economic Review, 99, 102367.
