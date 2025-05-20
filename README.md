@@ -1,6 +1,5 @@
 ## Wang Tianyu
-   Ph.D. in Economics
-   <br>Research Interests: International Economics, Development Economics
+   Research Interests: International Economics, Development Economics
    <br>Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Science
 
 ## Publications
