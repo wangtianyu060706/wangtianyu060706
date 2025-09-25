@@ -3,7 +3,7 @@
    <br>Research Interests: International Economics, Development Economics
 
 ## Publications
-    [1] Li, L., Liu, B., Sheng, B., & Wang, T*. (2025). “Double rail effect”: Transportation infrastructure and technological spillovers from R&D center foreign firms. China Economic Review, 99, 102367.
+    [1] Li, L., Liu, B., Sheng, B., & Wang, T. (2025). “A tale of two rails”: Transportation infrastructure and technological spillovers from R&D center foreign firms. China Economic Review, 90, 102367.
 
 <!--
 **wangtianyu060706/wangtianyu060706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
