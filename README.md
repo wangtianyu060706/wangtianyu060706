@@ -1,4 +1,4 @@
-## Wang Tianyu
+## Tianyu Wang
    Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Science
    <br>Research Interests: International Economics, Development Economics
 
