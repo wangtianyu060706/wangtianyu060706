@@ -9,6 +9,7 @@
 ## Publications
     [1] Li, L., Liu, B., Sheng, B., & Wang, T. (2025). “A tale of two rails”: Transportation infrastructure and technological spillovers from R&D center foreign firms. China Economic Review, 90, 102367.
     [2] Wang, T., Li, L., Li, F., & Liu, B. (2026). Online entertainment and exports: Evidence from a Chinese video game. China Economic Review, 97, 102690.
+    [3] Wang, T., Li, L., & Lu, Y. (2026). Transportation Infrastructure and College Admissions Quality: Evidence from China's National College Entrance Examination. Regional Science and Urban Economics, 119, 104223.
 
 
 <!--
