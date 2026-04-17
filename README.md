@@ -1,5 +1,6 @@
 ## Tianyu Wang
-   Assistant Research Fellow, Institute of World Economy, Jiangsu Provincial Academy of Social Sciences, 168 Jianye Road, Qinhuai District, Nanjing, 210004, China
+   Assistant Research Fellow
+   <br>Institute of World Economy, Jiangsu Provincial Academy of Social Sciences, 168 Jianye Road, Qinhuai District, Nanjing, 210004, China
    <br>Research Interests: International Economics, Development Economics
 
    wangtianyu060706@163.com
